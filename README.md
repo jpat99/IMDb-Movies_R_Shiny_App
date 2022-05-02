@@ -7,7 +7,7 @@ This application was developed as a part of Chase Romano's Visual Analytics cour
 
 ---
 
-You can access the live application by clicking [here](https://lk9aaw-jay-patel.shinyapps.io/R-Shiny-Movies-App/).
+You can access the live application by clicking [here](https://lk9aaw-jay-patel.shinyapps.io/r-shiny-movies-app/).
 
 <br>
 
