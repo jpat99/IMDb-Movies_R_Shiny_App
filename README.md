@@ -22,4 +22,4 @@ To run the app on your local device follow these steps:
 3) Open the app.r file in the workspace.
 4) Click the run app button on the upper right corner of the code panel.
 
-The dataset used can be accessed by clicking [here](https://www.kaggle.com/datasets/danielgrijalvas/movies).
+The dataset can be accessed by clicking [here](https://www.kaggle.com/datasets/danielgrijalvas/movies).
